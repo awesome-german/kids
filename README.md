@@ -2,6 +2,15 @@
 
 > A curated list of fun and interactive German learning materials designed specifically for children and beginners. Make learning German an exciting adventure! 🇩🇪
 
+<!-- BEGIN gh-mutual-linking -->
+
+### Related projects
+
+- [**puzzle-games**](https://github.com/oss-awesome/puzzle-games) — Awesome list of 2,200+ small OSS puzzle games/tooling on GitHub
+- [**text-to-speech**](https://github.com/didvc/text-to-speech) — 🎤 VoiceFlow - Modern text-to-speech web application with real-time word highlighting, customizable voice settings, and content management. Built…
+- [**Kuso-Physics**](https://github.com/KusoGames/Kuso-Physics) — Open-source chaos physics game. Built with Next.js. Easily self-host on GitHub Pages.
+<!-- END gh-mutual-linking -->
+
 ## Contents
 
 - [Online Learning Platforms](#online-learning-platforms)
