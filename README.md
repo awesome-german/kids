@@ -2,15 +2,6 @@
 
 > A curated list of fun and interactive German learning materials designed specifically for children and beginners. Make learning German an exciting adventure! 🇩🇪
 
-<!-- BEGIN gh-mutual-linking -->
-
-### Related projects
-
-- [**puzzle-games**](https://github.com/oss-awesome/puzzle-games) — Awesome list of 2,200+ small OSS puzzle games/tooling on GitHub
-- [**text-to-speech**](https://github.com/didvc/text-to-speech) — 🎤 VoiceFlow - Modern text-to-speech web application with real-time word highlighting, customizable voice settings, and content management. Built…
-- [**Kuso-Physics**](https://github.com/KusoGames/Kuso-Physics) — Open-source chaos physics game. Built with Next.js. Easily self-host on GitHub Pages.
-<!-- END gh-mutual-linking -->
-
 ## Contents
 
 - [Online Learning Platforms](#online-learning-platforms)
@@ -1089,6 +1080,12 @@ Common questions about teaching German to children.
 
 **Answer**: Research shows bilingualism enhances cognitive development! When done appropriately, learning German supports rather than hinders English. Ensure children have strong first language support, and that German learning is additive, not replacing English development time.
 
+## Disclaimer
+
+This independent, curated list points to third-party resources. None of the projects, publishers, platforms or organizations it links to have affiliated with, sponsored or endorsed it, and all names and trademarks belong to their owners.
+
+Other people run the linked sites, so their content, availability, prices and terms can change at any time. A listing here doesn't guarantee a resource's accuracy, safety or quality, so check each resource's own terms before you use it or pay for anything. Corrections and removal requests are welcome as issues.
+
 ## Contributing
 
 Contributions are welcome! Please read our [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
@@ -1151,12 +1148,24 @@ Your support helps others discover these valuable German learning resources for 
 
 ---
 
-## Disclaimer
-
-This is a curated list of resources compiled by the community. We do not own or operate any of the linked resources. Always supervise children when they are using online resources and ensure appropriate parental controls are in place. Some resources may require paid subscriptions or have premium features. We are not responsible for the content or quality of external resources.
-
----
-
 **Happy German Learning! Viel Erfolg beim Deutschlernen! 🎉**
 
 *Remember: Learning a language is a journey, not a destination. Be patient, practice regularly, and most importantly—have fun!*
+
+## License
+
+The text of this list is licensed under [CC BY 4.0](LICENSE). Linked resources are covered by their own licenses and terms.
+
+Copyright © 2025-2026 Aesthetic Vulpes ([github.com/didvc](https://github.com/didvc)). If you reuse or cite this list, credit Aesthetic Vulpes and link to this repository. Citation metadata is in [CITATION.cff](CITATION.cff).
+
+<!-- BEGIN gh-mutual-linking -->
+
+---
+
+### Related projects
+
+- [apps](https://github.com/awesome-german/apps): Mobile and web apps for mastering German vocabulary, grammar, and speaking skills effectively.
+- [youtube](https://github.com/awesome-german/youtube): Best YouTube channels for learning German through engaging video content, lessons, and real-life dialogues.
+- [vocabulary](https://github.com/awesome-german/vocabulary): Curated resources and tools to expand German vocabulary by topic, frequency, and context.
+
+<!-- END gh-mutual-linking -->
