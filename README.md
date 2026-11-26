@@ -423,6 +423,7 @@ Science, Technology, Engineering, and Math resources in German.
 - [Scratch in German](https://scratch.mit.edu/) - Visual programming language. Create games and animations in German.
 - [Math Games in German](https://www.mathe-kaenguru.de/) - Math Kangaroo competition. Fun math challenges.
 - [German Math Vocabulary](https://www.german-grammar.de/vocabulary/chapter_08/08_0_mathematics.htm) - Numbers, operations, geometry terms. Essential for math in German.
+* [Bella and Pan arithmetic example](https://bellaandpan.com/de/parents#difficulty) explains in German how parentheses change the answer, with a free exercise children can try on paper.
 - [German Science Vocabulary](https://www.germanpod101.com/german-word-lists/science-vocabulary/) - Scientific terms for kids. Biology, chemistry, physics basics.
 - [German Technology Terms](https://www.germanpod101.com/german-word-lists/technology-vocabulary/) - Computer and tech vocabulary. Modern terms children use.
 - [German Nature Vocabulary](https://www.germanpod101.com/german-word-lists/nature-vocabulary/) - Animals, plants, weather, environment. Nature-related words.
